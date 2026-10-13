@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+shap
+scikit-learn
+pandas
+numpy
+matplotlib
+joblib
+newspaper3k
+python-multipart
+sympy==1.13.1
+torch==2.5.1+cu121
+torchaudio==2.5.1+cu121
+torchvision==0.20.1+cu121
+transformers
